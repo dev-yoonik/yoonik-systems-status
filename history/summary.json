@@ -1,23 +1,38 @@
 [
   {
-    "name": "YooniK SAAS",
+    "name": "YooniK Website",
     "url": "https://www.yoonik.me/",
     "icon": "https://favicons.githubusercontent.com/www.yoonik.me",
-    "slug": "yooni-k-saas",
+    "slug": "yooni-k-website",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 828,
-    "timeDay": 484,
-    "timeWeek": 633,
-    "timeMonth": 783,
-    "timeYear": 828,
-    "dailyMinutesDown": {
-      "2022-01-01": 80,
-      "2021-12-31": 1
-    }
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "YooniK SSO",
+    "url": "https://accounts.yoonik.me/health_check",
+    "icon": "https://favicons.githubusercontent.com/accounts.yoonik.me",
+    "slug": "yooni-k-sso",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
