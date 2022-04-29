@@ -34,5 +34,41 @@
     "timeMonth": 640,
     "timeYear": 564,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "YooniK Face API v2 - Main",
+    "url": "https://face.yoonik.me/v2/yoonik/health",
+    "icon": "https://favicons.githubusercontent.com/face.yoonik.me",
+    "slug": "yooni-k-face-api-v2-main",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "YooniK Face API v2 - Workers",
+    "url": "https://face.yoonik.me/v2/yoonik/health-worker",
+    "icon": "https://favicons.githubusercontent.com/face.yoonik.me",
+    "slug": "yooni-k-face-api-v2-workers",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
