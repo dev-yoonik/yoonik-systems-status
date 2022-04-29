@@ -70,5 +70,23 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "YooniK Enroll API",
+    "url": "https://enroll.yoonik.me/v2.1/yoonik/health",
+    "icon": "https://favicons.githubusercontent.com/enroll.yoonik.me",
+    "slug": "yooni-k-enroll-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
