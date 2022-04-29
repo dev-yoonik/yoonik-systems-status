@@ -7,6 +7,10 @@ sites:
     url: https://www.yoonik.me/
   - name: YooniK SSO
     url: https://accounts.yoonik.me/health_check
+  - name: YooniK Face API - Main
+    url: https://face.yoonik.me/v2/yoonik/health
+  - name: YooniK Face API - Workers
+    url: https://face.yoonik.me/v2/yoonik/health-worker
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
