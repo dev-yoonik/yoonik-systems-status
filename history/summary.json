@@ -40,19 +40,19 @@
     "url": "https://face.yoonik.me/v2/yoonik/health",
     "icon": "https://favicons.githubusercontent.com/face.yoonik.me",
     "slug": "yooni-k-face-api-v2-main",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
-    "time": 6866,
-    "timeDay": 17433,
-    "timeWeek": 6866,
-    "timeMonth": 6866,
-    "timeYear": 6866,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 6484,
+    "timeDay": 14996,
+    "timeWeek": 6484,
+    "timeMonth": 6484,
+    "timeYear": 6484,
     "dailyMinutesDown": {
-      "2022-05-05": 108
+      "2022-05-05": 118
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://face.yoonik.me/v2/yoonik/health-worker",
     "icon": "https://favicons.githubusercontent.com/face.yoonik.me",
     "slug": "yooni-k-face-api-v2-workers",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2535,
-    "timeDay": 14638,
-    "timeWeek": 2535,
-    "timeMonth": 2535,
-    "timeYear": 2535,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2351,
+    "timeDay": 9805,
+    "timeWeek": 2351,
+    "timeMonth": 2351,
+    "timeYear": 2351,
     "dailyMinutesDown": {
-      "2022-05-05": 2
+      "2022-05-05": 12
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://enroll.yoonik.me/v2.1/yoonik/health",
     "icon": "https://favicons.githubusercontent.com/enroll.yoonik.me",
     "slug": "yooni-k-enroll-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3377,
-    "timeDay": 15083,
-    "timeWeek": 3377,
-    "timeMonth": 3377,
-    "timeYear": 3377,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 3108,
+    "timeDay": 10192,
+    "timeWeek": 3108,
+    "timeMonth": 3108,
+    "timeYear": 3108,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 10
     }
   }
 ]
