@@ -1,7 +1,7 @@
 url: https://face.yoonik.me/v2/yoonik/health
-status: up
-code: 200
-responseTime: 377
-lastUpdated: 2022-05-06T14:58:31.394Z
+status: down
+code: 504
+responseTime: 29511
+lastUpdated: 2022-05-06T17:35:36.427Z
 startTime: Fri Apr 29 2022 16:27:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
