@@ -4,9 +4,9 @@
     "url": "https://www.yoonik.me/",
     "icon": "https://favicons.githubusercontent.com/www.yoonik.me",
     "slug": "yooni-k-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 646,
     "timeMonth": 732,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "YooniK SSO",
     "url": "https://accounts.yoonik.me/health_check",
     "icon": "https://favicons.githubusercontent.com/accounts.yoonik.me",
     "slug": "yooni-k-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 433,
     "timeMonth": 483,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "YooniK Face API v2 - Main",
     "url": "https://face.yoonik.me/v2/yoonik/health",
     "icon": "https://favicons.githubusercontent.com/face.yoonik.me",
     "slug": "yooni-k-face-api-v2-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
@@ -52,6 +56,7 @@
     "timeMonth": 496,
     "timeYear": 7488,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-08": 79,
       "2022-05-07": 109,
       "2022-05-06": 82,
@@ -63,9 +68,9 @@
     "url": "https://face.yoonik.me/v2/yoonik/health-worker",
     "icon": "https://favicons.githubusercontent.com/face.yoonik.me",
     "slug": "yooni-k-face-api-v2-workers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -75,6 +80,7 @@
     "timeMonth": 111,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-06": 13,
       "2022-05-05": 12
     }
@@ -84,7 +90,7 @@
     "url": "https://enroll.yoonik.me/v2.1/yoonik/health",
     "icon": "https://favicons.githubusercontent.com/enroll.yoonik.me",
     "slug": "yooni-k-enroll-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -96,6 +102,7 @@
     "timeMonth": 521,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-05": 10
     }
   }
