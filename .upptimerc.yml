@@ -11,8 +11,10 @@ sites:
     url: https://face.yoonik.me/v2/api/health
   - name: YooniK Face API v2 - Workers
     url: https://face.yoonik.me/v2/api/health-worker
-  - name: YooniK Enroll API
+  - name: YooniK Enroll API v2
     url: https://enroll.yoonik.me/v2.1/yoonik/health
+  - name: YooniK Enroll API v3
+    url: https://enroll.yoonik.me/v3/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
