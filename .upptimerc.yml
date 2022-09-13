@@ -10,7 +10,7 @@ sites:
   - name: YooniK Face API v2 - Main
     url: https://face.yoonik.me/v2/yoonik/health
   - name: YooniK Face API v2 - Workers
-    url: https://face.yoonik.me/v2/yoonik/health-worker
+    url: https://face.yoonik.me/v2/api/health-worker
   - name: YooniK Enroll API
     url: https://enroll.yoonik.me/v2.1/yoonik/health
 
