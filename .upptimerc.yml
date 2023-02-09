@@ -3,18 +3,19 @@ owner: dev-yoonik # Your GitHub organization or username, where this repository 
 repo: yoonik-systems-status # The name of this repository
 
 sites:
-  - name: YooniK Website
-    url: https://www.yoonik.me/
-  - name: YooniK SSO
+  - name: Website
+    url: https://www.youverse.id/
+  - name: YouAuth SSO
     url: https://accounts.yoonik.me/health_check
-  - name: YooniK Face API v2 - Main
-    url: https://face.yoonik.me/v2/api/health
-  - name: YooniK Face API v2 - Workers
-    url: https://face.yoonik.me/v2/api/health-worker
-  - name: YooniK Enroll API v2
-    url: https://enroll.yoonik.me/v2.1/yoonik/health
-  - name: YooniK Enroll API v3
-    url: https://enroll.yoonik.me/v3/api/health
+  - name: YouAuth API v2
+    url: https://enroll.youverse.id/v2.1/yoonik/health
+  - name: YouAuth API v3
+    url: https://enroll.youverse.id/v3/api/health
+  - name: Face API v2 - Main
+    url: https://face.youverse.id/v2/api/health
+  - name: Face API v2 - Workers
+    url: https://face.youverse.id/v2/api/health-worker
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
