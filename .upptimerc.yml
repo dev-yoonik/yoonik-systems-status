@@ -20,11 +20,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.yoonik.me
+  cname: status.youverse.id
   # baseUrl: /your-repo-name
   logoUrl: https://yk-website-images.s3.eu-west-1.amazonaws.com/logo.png
   favicon: https://yk-website-images.s3.eu-west-1.amazonaws.com/images/home/yk-favicon.png
-  name: YooniK
+  name: Youverse
   navbar:
     - title: Status
       href: /
