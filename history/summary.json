@@ -19,22 +19,22 @@
   },
   {
     "name": "YouAuth SSO",
-    "url": "https://accounts.yoonik.me/health_check",
-    "icon": "https://icons.duckduckgo.com/ip3/accounts.yoonik.me.ico",
+    "url": "https://accounts.youverse.id/health_check",
+    "icon": "https://icons.duckduckgo.com/ip3/accounts.youverse.id.ico",
     "slug": "you-auth-sso",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.71%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 690,
     "timeDay": 640,
     "timeWeek": 690,
     "timeMonth": 690,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 18
     }
   },
   {
