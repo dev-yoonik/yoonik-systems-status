@@ -22,9 +22,9 @@
     "url": "https://accounts.yoonik.me/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.yoonik.me.ico",
     "slug": "you-auth-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 690,
     "timeMonth": 690,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-13": 0
+    }
   },
   {
     "name": "YouAuth API v2",
