@@ -60,18 +60,20 @@
     "url": "https://enroll.youverse.id/v3/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/enroll.youverse.id.ico",
     "slug": "you-auth-api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 99,
-    "timeWeek": 114,
-    "timeMonth": 120,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 7260,
+    "timeWeek": 1902,
+    "timeMonth": 581,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Face API v2 - Main",
