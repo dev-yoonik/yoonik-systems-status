@@ -4,19 +4,19 @@
     "url": "https://www.youverse.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.youverse.id.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 741,
-    "timeDay": 526,
-    "timeWeek": 643,
-    "timeMonth": 746,
+    "timeDay": 613,
+    "timeWeek": 650,
+    "timeMonth": 744,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 11
     }
   },
   {
