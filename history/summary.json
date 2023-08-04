@@ -24,18 +24,19 @@
     "url": "https://accounts.youverse.id/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.youverse.id.ico",
     "slug": "you-auth-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 520,
-    "timeWeek": 526,
+    "timeDay": 562,
+    "timeWeek": 536,
     "timeMonth": 602,
     "timeYear": 540,
     "dailyMinutesDown": {
+      "2023-08-04": 0,
       "2023-02-13": 19
     }
   },
