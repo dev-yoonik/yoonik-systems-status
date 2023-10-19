@@ -1,7 +1,7 @@
 url: https://face.youverse.id/v2/api/health
 status: down
-code: 504
-responseTime: 29364
-lastUpdated: 2023-10-18T23:52:41.240Z
+code: 500
+responseTime: 15013
+lastUpdated: 2023-10-19T23:09:46.050Z
 startTime: 2023-02-09T11:44:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
