@@ -4,7 +4,7 @@
     "url": "https://www.youverse.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.youverse.id.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 735,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2024-05-18": 0,
       "2024-01-06": 10,
       "2023-07-26": 11
     }
@@ -90,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/face.youverse.id.ico",
     "slug": "face-api-v2-main",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
