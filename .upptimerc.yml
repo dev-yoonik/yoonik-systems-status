@@ -5,6 +5,8 @@ repo: yoonik-systems-status # The name of this repository
 sites:
   - name: Website
     url: https://www.youverse.id/
+  - name: YouID
+    url: https://kyc-web.youverse.id/
   - name: YouAuth SSO
     url: https://accounts.youverse.id/health_check
   - name: YouAuth API v2

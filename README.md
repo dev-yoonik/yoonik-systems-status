@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.yoonik.me): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.youverse.id): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [dev-yoonik](www.yoonik.me), powered by [Upptime](https://github.com/upptime/upptime).
 
