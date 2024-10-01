@@ -4,7 +4,7 @@
     "url": "https://www.youverse.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.youverse.id.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
@@ -16,6 +16,7 @@
     "timeMonth": 817,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2024-10-01": 0,
       "2024-09-26": 102,
       "2024-09-24": 40,
       "2024-08-02": 143,
