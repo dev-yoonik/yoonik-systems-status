@@ -7,16 +7,10 @@ sites:
     url: https://www.youverse.id/
   - name: YouID
     url: https://kyc-web.youverse.id/
-  - name: YouAuth SSO
-    url: https://accounts.youverse.id/health_check
-  - name: YouAuth API v2
-    url: https://enroll.youverse.id/v2.1/yoonik/health
-  - name: YouAuth API v3
-    url: https://enroll.youverse.id/v3/api/health
-  - name: Face API v2 - Main
-    url: https://face.youverse.id/v2/api/health
-  - name: Face API v2 - Workers
-    url: https://face.youverse.id/v2/api/health-worker
+  - name: YouAuth API
+    url: https://enroll.youverse.id/v4/api/health
+  - name: YouFace API
+    url: https://face.youverse.id/v3/api/health
 
 
 status-website:
