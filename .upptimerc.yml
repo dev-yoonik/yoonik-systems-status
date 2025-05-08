@@ -1,6 +1,7 @@
 # Change these first
 owner: dev-yoonik # Your GitHub organization or username, where this repository lives
 repo: yoonik-systems-status # The name of this repository
+user-agent: $YV_USER_AGENT
 
 sites:
   - name: Website
