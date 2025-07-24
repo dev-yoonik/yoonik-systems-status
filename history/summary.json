@@ -105,19 +105,19 @@
     "url": "https://enroll.youverse.id/v4/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/enroll.youverse.id.ico",
     "slug": "you-auth-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 5675,
-    "timeWeek": 1769,
-    "timeMonth": 772,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 492,
+    "timeDay": 3981,
+    "timeWeek": 1638,
+    "timeMonth": 766,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 28
     }
   },
   {
