@@ -123,5 +123,41 @@
     "timeMonth": 443,
     "timeYear": 439,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "YouLive API",
+    "url": "https://face-spoofing.youverse.id/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/face-spoofing.youverse.id.ico",
+    "slug": "you-live-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "YouAge API",
+    "url": "https://face-analysis.youverse.id/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/face-analysis.youverse.id.ico",
+    "slug": "you-age-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]

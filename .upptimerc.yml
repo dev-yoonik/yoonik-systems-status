@@ -12,6 +12,10 @@ sites:
     url: https://enroll.youverse.id/v4/api/health
   - name: YouFace API
     url: https://face.youverse.id/v3/api/health
+  - name: YouLive API
+    url: https://face-spoofing.youverse.id/api/health
+  - name: YouAge API
+    url: https://face-analysis.youverse.id/api/health
 
 
 status-website:
