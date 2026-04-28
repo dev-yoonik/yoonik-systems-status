@@ -16,6 +16,10 @@ sites:
     url: https://face-spoofing.youverse.id/api/health
   - name: YouAge API
     url: https://face-analysis.youverse.id/api/health
+  - name: Decentralized Validators - 0
+    url: https://validators-0.youverse.id/v1/api/health
+  - name: Decentralized Validators - 1
+    url: https://validators-1.youverse.id/v1/api/health
 
 
 status-website:

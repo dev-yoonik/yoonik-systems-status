@@ -129,5 +129,41 @@
     "timeMonth": 418,
     "timeYear": 425,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Decentralized Validators - 0",
+    "url": "https://validators-0.youverse.id/v1/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/validators-0.youverse.id.ico",
+    "slug": "decentralized-validators-0",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Decentralized Validators - 1",
+    "url": "https://validators-1.youverse.id/v1/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/validators-1.youverse.id.ico",
+    "slug": "decentralized-validators-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
