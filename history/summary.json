@@ -14,7 +14,7 @@
     "timeDay": 475,
     "timeWeek": 450,
     "timeMonth": 532,
-    "timeYear": 596,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2025-08-08": 128,
       "2025-09-15": 651,
@@ -90,18 +90,20 @@
     "url": "https://face-spoofing.youverse.id/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/face-spoofing.youverse.id.ico",
     "slug": "you-live-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 448,
-    "timeWeek": 399,
-    "timeMonth": 438,
-    "timeYear": 423,
-    "dailyMinutesDown": {}
+    "time": 545,
+    "timeDay": 5473,
+    "timeWeek": 1662,
+    "timeMonth": 810,
+    "timeYear": 545,
+    "dailyMinutesDown": {
+      "2026-07-18": 0
+    }
   },
   {
     "name": "YouAge API",
