@@ -1,7 +1,7 @@
 url: https://validators-0.youverse.id/v1/api/health
-status: down
-code: 403
-responseTime: 536
-lastUpdated: 2026-08-10T23:19:38.515Z
+status: up
+code: 200
+responseTime: 419
+lastUpdated: 2026-08-10T23:27:41.422Z
 startTime: 2026-04-28T07:39:23.951Z
 generator: Upptime <https://github.com/upptime/upptime>
