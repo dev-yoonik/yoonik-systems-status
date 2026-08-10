@@ -1,7 +1,7 @@
 url: https://face-analysis.youverse.id/api/health
-status: up
-code: 200
-responseTime: 438
-lastUpdated: 2026-08-09T23:23:33.635Z
+status: down
+code: 403
+responseTime: 335
+lastUpdated: 2026-08-10T23:19:23.499Z
 startTime: 2026-03-06T15:36:40.474Z
 generator: Upptime <https://github.com/upptime/upptime>
